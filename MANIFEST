@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/Test/Ranger.pm
+lib/Test/Ranger/List.pm
+MANIFEST
+README
+t/00.load.t
+t/synopsis-oo.t
+META.yml
