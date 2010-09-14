@@ -5,5 +5,7 @@ lib/Test/Ranger/List.pm
 MANIFEST
 README
 t/00.load.t
-t/synopsis-oo.t
+t/minimum.t
+t/sub-new-02.t
+t/sub-new-03.t
 META.yml
